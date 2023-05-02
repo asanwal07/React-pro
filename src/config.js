@@ -12,24 +12,24 @@ export const CART_FALLBACK_IMG =
 
 
 /* BANGALORE LOCATION URL */
-export const GET_RESTAURANTS_LIST = "https://www.swiggy.com/dapi/restaurants/list/v5?lat=28.6547698&lng=77.18787619999999&page_type=DESKTOP_WEB_LISTING";
-export const GET_RESTAURANT_MENU = "https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&lat=28.6547698&lng=77.18787619999999&restaurantId=";
+export const GET_RESTAURANTS_LIST = "https://corsanywhere.io/?https://www.swiggy.com/dapi/restaurants/list/v5?lat=28.6547698&lng=77.18787619999999&page_type=DESKTOP_WEB_LISTING";
+export const GET_RESTAURANT_MENU = "https://corsanywhere.io/?https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&lat=28.6547698&lng=77.18787619999999&restaurantId=";
 
 /* Shimmer - Number of cards & items to be displayed */
 export const SHIMMER_RES_CARDS_COUNT = 8;
 export const SHIMMER_MENU_ITEMS_COUNT = 4;
 
 /* Github - username, blog name */
-export const GITHUB_USER_NAME = "HarshithaSolai";
+export const GITHUB_USER_NAME = "asanwal07";
 export const GITHUB_BLOG_NAME = "Learn-React-With-Harshi";
 
 /* Github API getuser */
 export const GITHUB_GET_USER = "https://api.github.com/users/";
 
 /* Social Media Links */
-export const GITHUB_LINK = "https://github.com/HarshithaSolai";
-export const LINKEDIN_LINK = "https://www.linkedin.com/in/harshitha-sv/";
-export const GMAIL_LINK = "mailto:solaiharshitha0@gmail.com";
+export const GITHUB_LINK = "https://github.com/asanwal07";
+export const LINKEDIN_LINK = "https://www.linkedin.com/in/akshit-sanwal-74863a1aa";
+export const GMAIL_LINK = "mailto:akshitsanwal14@gmail.com";
 
 /* User Address - Checkout  */
 export const USERS_ADDRESS_LIST = [
