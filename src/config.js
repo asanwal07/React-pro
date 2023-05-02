@@ -12,8 +12,8 @@ export const CART_FALLBACK_IMG =
 
 
 /* BANGALORE LOCATION URL */
-export const GET_RESTAURANTS_LIST = "https://corsanywhere.io/?https://www.swiggy.com/dapi/restaurants/list/v5?lat=28.6547698&lng=77.18787619999999&page_type=DESKTOP_WEB_LISTING";
-export const GET_RESTAURANT_MENU = "https://corsanywhere.io/?https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&lat=28.6547698&lng=77.18787619999999&restaurantId=";
+export const GET_RESTAURANTS_LIST = "https://corsproxy.io/?https://www.swiggy.com/dapi/restaurants/list/v5?lat=28.6547698&lng=77.18787619999999&page_type=DESKTOP_WEB_LISTING";
+export const GET_RESTAURANT_MENU = "https://corsproxy.io/?https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&lat=28.6547698&lng=77.18787619999999&restaurantId=";
 
 /* Shimmer - Number of cards & items to be displayed */
 export const SHIMMER_RES_CARDS_COUNT = 8;
